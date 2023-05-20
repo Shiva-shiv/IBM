@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head><title>pixel</title>
+<center><h1>The Meme Museum</h1></center>
+<center><h2>The Meme Museum<h2></center>
+</head>
+<style>
+body {
+  background-image: url(https://cdn.wallpapersafari.com/67/42/O5PdqY.jpg  );
+ background-size: cover;
+}
+</style>
+<body>
+<center><h4 style="color:black">Cresating awesome looking memes with the meme museum and share it to the online platform like this website.<br> Meme Museum:the meme creating platform <br><br>
+
+
+
+ <br>  <br>   </h4></center>
+
+
+<center><a style="color:white" href="loginn.html">Login</a><br><br><a style="color:white" href="sign up.html">Sign up</a></center>
+</body>
